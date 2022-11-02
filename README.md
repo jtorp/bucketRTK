@@ -8,4 +8,4 @@ _Fetching and caching with basic crud_
 
 _Sample data is in db.json file._
 
-Json server - **_npx json-server -p 8080 -w data/db.json _**.
+Json server - **npx json-server -p 8080 -w data/db.json**.
