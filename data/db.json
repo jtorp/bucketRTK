@@ -1,0 +1,82 @@
+{
+  "items": [
+    {
+      "userId": 1,
+      "id": 1,
+      "title": "Make leaf art",
+      "completed": false
+    },
+    {
+      "userId": 1,
+      "id": 2,
+      "title": "Go trick-or-treating",
+      "completed": false
+    },
+    {
+      "userId": 1,
+      "id": 3,
+      "title": "Go apple picking",
+      "completed": true
+    },
+    {
+      "userId": 1,
+      "id": 4,
+      "title": "Make an autumn wreath",
+      "completed": true
+    },
+    {
+      "userId": 1,
+      "title": "Paint pumpkins",
+      "completed": false,
+      "id": 7
+    },
+    {
+      "userId": 1,
+      "title": "Make your own candles",
+      "completed": true,
+      "id": 8
+    },
+    {
+      "userId": 1,
+      "title": "Have a fall picnic at the park",
+      "completed": false,
+      "id": 9
+    },
+    {
+      "userId": 1,
+      "title": "Roast pumpkin seeds",
+      "completed": true,
+      "id": 11
+    },
+    {
+      "userId": 1,
+      "title": "Turn back the clock for daylight savings time",
+      "completed": true,
+      "id": 12
+    },
+    {
+      "userId": 1,
+      "title": "Attend a fall harvest festival",
+      "completed": true,
+      "id": 13
+    },
+    {
+      "userId": 1,
+      "title": "jump in a pile of leaves",
+      "completed": true,
+      "id": 15
+    },
+    {
+      "userId": 1,
+      "title": "Eat a caramel apple",
+      "completed": false,
+      "id": 16
+    },
+    {
+      "userId": 1,
+      "title": "Bake apple pie",
+      "completed": false,
+      "id": 17
+    }
+  ]
+}
